@@ -1,7 +1,7 @@
 import json
 from difflib import get_close_matches
 
-data = json.load(open("/Users/Lucky/PycharmProjects/Udemy/webmap_with_folium/Dictionary/data.json"))
+data = json.load(open("/webmap_with_folium/Dictionary/Dictionary/data.json"))
 
 
 def dictionary(word):
