@@ -8,7 +8,7 @@ import pandas
 import folium
 ```
 
-![Sample Image ](/Users/Lucky/PycharmProjects/Udemy/webmap_with_folium/Dictionary/Webmap/image.png)
+![Sample Image ](image.png)
 
 # Dictionary
 Dictionary is an simple app that search for words from a given database file and then retrieve the meaning of the word. 
